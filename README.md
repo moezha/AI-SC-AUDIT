@@ -1,4 +1,4 @@
-# LLaMA Smart Contract Auditor
+# AI Smart Contract Audit
 
 ## Overview
 
