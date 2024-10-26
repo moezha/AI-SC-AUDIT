@@ -2,7 +2,7 @@
 
 ## Overview
 
-The LLaMA Smart Contract Auditor is an extension of the LLaMA 3.2 language model designed to assist in auditing smart contracts. It analyzes smart contract code and identifies potential vulnerabilities, offering suggestions for best practices and improvements.
+The AI Smart Contract Audit is an extension of the LLaMA 3.2 language model designed to assist in auditing smart contracts. It analyzes smart contract code and identifies potential vulnerabilities, offering suggestions for best practices and improvements.
 
 ## Features
 
