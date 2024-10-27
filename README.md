@@ -10,6 +10,10 @@ The AI Smart Contract Audit is an extension of the LLaMA 3.2 language model desi
 - **Best Practice Recommendations**: Provides suggestions based on established best practices in smart contract development.
 - **Natural Language Explanations**: Converts complex smart contract logic into easy-to-understand natural language descriptions.
 
+## Project Board
+
+Check out the project's progress on the [Project Board](https://github.com/users/moezha/projects/1).
+
 ## Use Cases
 
 - **Smart Contract Auditors**: Streamline the auditing process by quickly identifying vulnerabilities.
